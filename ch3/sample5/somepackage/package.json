@@ -1,0 +1,11 @@
+{
+	"name": "mypackage",
+	"description": "sample package for commonJS",
+	"version": "0.0.1",
+	"keywords": [
+		"package",
+		"example"
+	],
+	"main": "./lib/interface.js"
+}
+
